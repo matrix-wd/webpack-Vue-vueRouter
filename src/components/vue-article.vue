@@ -3,7 +3,7 @@
 		<el-col :span="20" class="waterfall" :offset="2">
 			<div class="item" v-for="(item,index) in articles">
 				<router-link :to=" item.page " append>
-					<img :src=" '../../dist/article/'+(index+1)+'.jpg' " alt="" />
+					<img :src=" './dist/article/'+(index+1)+'.jpg' " alt="" />
 					<p v-text="item.description"></p>
 				</router-link>
 			</div>
@@ -38,11 +38,11 @@
 			column-count: 3;
 			column-gap: 20px;
 			.item {
-				padding: 10px;
 				margin: 0 0 10px 0;
 				background-color: white;
 				break-inside: avoid;
 				img {
+					padding: 10px;
 					width: 100%;
 				}
 				p {
