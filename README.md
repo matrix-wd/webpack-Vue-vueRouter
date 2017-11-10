@@ -115,4 +115,16 @@ Goth
 
 ## 项目图片
 ### PC端
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/1.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/2.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/3.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/4.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/5.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/6.png)
 ### 移动端
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/1.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/2.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/3.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/4.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/5.png)
+![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/6.png)
