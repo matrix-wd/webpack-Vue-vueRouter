@@ -122,9 +122,9 @@ Goth
 ![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/5.png)
 ![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/pc/6.png)
 ### 移动端
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/1.jpg)
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/2.jpg)
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/3.jpg)
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/4.jpg)
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/5.jpg)
-![image](https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/6.jpg)
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/1.jpg" width="300px">
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/2.jpg" width="300px">
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/3.jpg" width="300px">
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/4.jpg" width="300px">
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/5.jpg" width="300px">
+<img src="https://github.com/deng1234/webpack-Vue-vueRouter/blob/master/_image/mobile/6.jpg" width="300px">
