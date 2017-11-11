@@ -23,7 +23,7 @@
 					{description:"论美国大学转学",page:"transfer"},
 					{description:"托福考试常识问答",page:"ielts"},
 					{description:"解读新SAT",page:"sat"},
-					{description:"关于AP 考试(美国大学先修课程)",page:"ap"},
+					{description:"关于AP考试(美国大学先修课程)",page:"ap"},
 				]
 			}
 		}
@@ -38,11 +38,11 @@
 			column-count: 3;
 			column-gap: 20px;
 			.item {
+				padding: 10px;
 				margin: 0 0 10px 0;
 				background-color: white;
 				break-inside: avoid;
 				img {
-					padding: 10px;
 					width: 100%;
 				}
 				p {

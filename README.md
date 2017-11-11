@@ -7,7 +7,7 @@ Goth官网
 
 ## Demo && 演示
 因为对方公司对于没有技术人员，所以自己就没有使用路由的history模式，采用了默认的hash<br/>
-**点击这里可以直接访问[www.boyalibrary.com/goth/index.html#/index](http://www.boyalibrary.com/goth/index.html#/index)**
+**点击这里可以直接访问[Goth](http://www.boyalibrary.com/goth/index.html#/index)**
 
 ## Build Setup
 ```

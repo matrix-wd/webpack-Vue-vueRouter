@@ -49,7 +49,7 @@
 					{name:"Mary Agbo", pos:"斯坦福大学,教育学专业<br/>曾在Alice C. Stelle Middle School任教一年",saying:"Education commences at the mother's knee, and every word spoken within the hearsay of children tends towards the formation of character.",imgName:"Mary"},
 					{name:"Lauren Dubois", pos:"西北大学,心理学专业<br/>曾任职于加州大学安德森招生办",saying:"Plato is dear to me , but dearer still is truth.",imgName:"Lauren"},
 					{name:"Marisa Mamer", pos:"密歇根大学安娜堡分校,机械工程专业<br/>曾任职于Bragg Elementary",saying:"Education is a progressive discovery of our ignorance.",imgName:"Marisa"},
-					{name:"Romit Ariel", pos:"华盛顿大学,教育学专业<br/>曾在Anza Elementary任职一年半",saying:"Education is a admirable thing, but it is well to remember from time to time that nothing worth knowing can be taught.",imgName:"Romit"},
+					{name:"Romit Ariel", pos:"华盛顿大学,教育学专业<br/>曾在Anza Elementary任职一年半",saying:"Education is an admirable thing, but it is well to remember from time to time that nothing worth knowing can be taught.",imgName:"Romit"},
 					{name:"Samantha Kastan", pos:"约翰霍普金斯大学,教育学专业<br/>曾在Loomis Chaffee school任教五年",saying:"Education begins a gentleman, conversation completes him.",imgName:"Samantha"},
 					{name:"Jonathan Kaley", pos:"南加州大学,法律专业<br/>曾任宾夕法尼亚大学夏校申请材料审核人",saying:"The purpose of education is to replace an empty mind with an open one.",imgName:"Jonathan"},
 					{name:"Aviva Plumb", pos:"威斯康星大学,生物工程专业<br/>曾担任奥本大学生物助教",saying:"Education does not mean teaching people to know what they do not know; it means teaching them to behave as they do not behave.",imgName:"Aviva"},
@@ -115,6 +115,9 @@
 			img,p,h3 {
 				font-size: 14px;
 				padding: 10px 10px 0 10px;
+			}
+			h3 {
+				line-height: 22px;
 			}
 			p {
 				padding-top: 20px;
