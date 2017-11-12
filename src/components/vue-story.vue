@@ -2,7 +2,7 @@
 	<div>
 		<el-row>
 			<el-col :span="24" class="story-img">
-				<img src="../assets/img/story.jpg" alt="" />
+				
 			</el-col>
 		</el-row>
 		<el-row class="story" v-for="item in storys">
@@ -34,13 +34,21 @@
 </script>
 
 <style lang="less">
-.story-img {
-	img {
-		height: 70%;
-		width: 100%;
+@media (max-width: 1280px) {
+	.story-img {
+		height: 600px !important;
+		background: url('../assets/img/story.jpg') no-repeat center center !important;
+	}
+	.story {
+		display: block !important;
 	}
 }
+.story-img {
+	height: 1050px;
+	background: url('../assets/img/story2.jpg') no-repeat center;
+}
 .story {
+	display: none;
 	margin-top: -5px;
 	background: #d2d3d5;
 	h1 {

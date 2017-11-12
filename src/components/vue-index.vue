@@ -2,7 +2,7 @@
 	<div>
 		<el-row>
 			<el-col :span="24" class="content">
-				<img src="../assets/img/index.jpg" alt="" />
+				<img src="../assets/img/index2.jpg" alt="" />
 			</el-col>
 		</el-row>
 		<el-row class="index-intro">
