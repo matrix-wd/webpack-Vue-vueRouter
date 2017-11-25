@@ -35,10 +35,11 @@
 </script>
 
 <style lang="less">
-@media (max-width: 1280px) {
+@media (max-width: 1100px) {
 	.story-img {
 		height: 600px !important;
-		background: url('../assets/img/story.jpg') no-repeat center center !important;
+		background: url('../assets/img/story.jpg') no-repeat !important;
+		background-size: 100% 100%;
 	}
 	.story {
 		display: block !important;
@@ -47,6 +48,7 @@
 .story-img {
 	height: 1050px;
 	background: url('../assets/img/story2.jpg') no-repeat center;
+	background-size: 100% 100%;
 }
 .story {
 	display: none;
